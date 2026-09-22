@@ -1,0 +1,1 @@
+console.log("Salah Altaki Portfolio Website Loaded Successfully");
